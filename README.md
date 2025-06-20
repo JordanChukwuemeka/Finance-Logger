@@ -1,1 +1,1 @@
-# Finance-Logger
+A modern Finance Logger built with JavaScript (ES6+) and TypeScript to help users track income, expenses, and savings efficiently. This web app combines the flexibility of JavaScript with the robustness of TypeScript for type-safe financial tracking. Designed for both beginners and power users, it provides a clean, intuitive interface with real-time balance updates and transaction history.
